@@ -1,10 +1,8 @@
-<h1 align="center">Blogpedia</h1>
+
+# Blogpedia
 
 ## About Blogpedia
-
 Blogpedia is a project developed using Laravel. It is same like a blogging website where user can perform CRUD operations on posts.
-
-<hr>
 
 ### Setup this Locally on Windows
 - ### Installations
@@ -13,20 +11,18 @@ Blogpedia is a project developed using Laravel. It is same like a blogging websi
     
 - ### Clone the repo
 
-    Clone this repo to <code>C:\xampp\htdocs on windows</code>
+    Clone this repo to `C:\xampp\htdocs on windows`
 
 - ### Start the Xampp Server
 
-    Open browser and go to <code>localhost/blogpedia/public</code>
-    
-<hr>
+    Open browser and go to `localhost/blogpedia/public`
 
 - ### Setup Virtual host on Windows (Optional)
-    Go to <code>C:\xampp\apache\conf\extra</code>
+    - Go to `C:\xampp\apache\conf\extra`
     
-    Edit <code>httpd-vhosts.conf</code>
+    - Edit `httpd-vhosts.conf`
     
-    Paste the following and save the file:
+    - Paste the following and save the file:
      ```
     <VirtualHost *:80>
         DocumentRoot "C:/xampp/htdocs/"
@@ -37,7 +33,19 @@ Blogpedia is a project developed using Laravel. It is same like a blogging websi
         ServerName blogpedia.io
     </VirtualHost>
     ```
-    
+
+   - #### Now open notepad as adminstrator
+        - open file
+        - Go to `C:\Windows\System32\drivers\etc` 
+        - Select all files
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
