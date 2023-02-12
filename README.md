@@ -38,6 +38,12 @@ Blogpedia is a project developed using Laravel. It is same like a blogging websi
         - open file
         - Go to `C:\Windows\System32\drivers\etc` 
         - Select all files
+        - Open `host` file
+        - Paste the following at the end of file:
+        ```
+        127.0.0.1 localhost
+        127.0.0.1 blogpedia.io
+        ``` 
 
 ## License
 
