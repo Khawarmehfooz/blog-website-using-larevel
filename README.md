@@ -1,8 +1,8 @@
 
-<h1 align="center">Blogpedia</h1>
+<h1 align="center">Blogpedia - A Laravel-based Blogging Website</h1>
 
 ## About Blogpedia
-Blogpedia is a project developed using Laravel. It is same like a blogging website where user can perform CRUD operations on posts.
+Blogpedia is a Laravel-based project that allows users to create, read, update, and delete blog posts. It's just like a regular blogging website.
 
 ### Setup this Locally on Windows
 - ### Installations
